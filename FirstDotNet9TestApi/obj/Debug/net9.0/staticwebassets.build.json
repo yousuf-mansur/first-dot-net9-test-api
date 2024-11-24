@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pQtQS818S94yzMmMxhAU2QkgSu/oZ+ISPL+rmWHtKzc=",
+  "Source": "FirstDotNet9TestApi",
+  "BasePath": "_content/FirstDotNet9TestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
